@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.gsaglobal.org	TRUE	/	FALSE	1999999999	__cfduid	d020e4d18d1cc0c57f2347e5ae76dbbd61617244145
+www.gsaglobal.org	TRUE	/	FALSE	1999999999	SameSite	Lax
+lap.epfl.ch	TRUE	/	FALSE	1999999999	86bda616e772e8f447eb67560ce494ff	dee93fdc0a6246ebb213555b17414457
+.epfl.ch	TRUE	/	FALSE	1999999999	__cfduid	d401146040c543479773f4757b372648c1617265448
+www.epfl.ch	TRUE	/	FALSE	1999999999	SameSite	Lax
+altera.us	TRUE	/	FALSE	1999999999	__tad	1617265502.1209883
+

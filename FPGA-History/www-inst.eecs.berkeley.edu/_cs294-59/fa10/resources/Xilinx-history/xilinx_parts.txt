@@ -1,0 +1,283 @@
+
+Xilinx Part Family History
+
+1985: XC2064
+
+  Data Sheet:  The xc2000.pdf file I emailed you earlier.
+
+  CICS paper on XC2000 series (1986) [apparently not available online]
+
+  W. S. Carter, K. Duong, R. H. Freeman, H.-C Hsieh, J. Y. Ja, J. E. Mahoney, 
+  L. T. Ngo, and S. L. Sze, "A user programmable reconfigurable logic array,"
+  Proceedings of the Custom Integrated Circuits Conference, pp. 233-235, 1986. 
+
+  This was fabbed in a 2um process, according to (see page 2):
+
+  http://www.xilinx.com/publications/archives/xcell/Xcell15.pdf
+
+1988: XC3020
+
+  Data Sheet:  The xc3000.pdf file I emailed you earlier. This was
+  the original product data sheet, a current data sheet that has
+  compatible version of this part is available here:
+
+  http://www.xilinx.com/support/documentation/xc3000.htm
+
+  CICS paper on the XC3090 (1998):
+
+  A 9000-gate user-programmable gate array
+  http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=20872
+
+1991: XC4000
+
+  Original 1990 data sheet available here:
+
+  http://www.alldatasheet.com/view.jsp?sSearchword=XC4004
+
+  A current data sheet for a forward-compatible version
+  of the part is available here:
+
+  http://www.xilinx.com/support/documentation/xc4000.htm
+
+  CICS paper on the XC4000 series (1990)
+
+  "Third-generation architecture boosts speed and density of 
+  field-programmable gate arrays"
+
+  http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=124841&tag=1
+
+  FPGA conference paper on interconnect of XC4000EX
+  http://portal.acm.org/citation.cfm?doid=258305.258306
+
+  XC4000 Jbits paper by Xilinx authors
+  http://www.imamu.edu.sa/dcontent/IT_Topics/java/jbits.pdf
+
+  Xcell XC4000 description (page 4):
+
+  http://www.xilinx.com/publications/archives/xcell/Xcell3.pdf
+
+  Xcell descriptions of XC3000 and XC4000 product updates (page 11)
+  
+  http://www.xilinx.com/publications/archives/xcell/Xcell10.pdf
+
+  Xcell XC4025 description (page 14)
+
+  http://www.xilinx.com/publications/archives/xcell/Xcell13.pdf
+
+  Xcell XC4000E RAM and FIFO capabilities (page 31)
+
+  http://www.xilinx.com/publications/archives/xcell/Xcell18.pdf
+
+1992: XC3100
+
+  Xcell XC3100 series preview (page 1, page 3)
+  
+  http://www.xilinx.com/publications/archives/xcell/Xcell8.pdf
+
+1992: XC3200
+
+1994: XC5000
+
+  Xilinx data sheet dated 1999, I'm guessing its too close to 1994
+  to be describing a redesigned verson of the part ...
+
+  http://www.xilinx.com/support/documentation/data_sheets/5200.pdf
+
+  CICS paper on the XC5000 (1995)
+  "Logic block and routing considerations for a new SRAM-based FPGA architecture"
+
+  http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=518235
+
+  Xcell XC5000 introduction (page 14)
+
+  http://www.xilinx.com/publications/archives/xcell/Xcell15.pdf
+
+1995: XC8100 (one-time programmable; discontinued 1996)
+
+  Data sheet:
+
+  http://www.elektronik.ropla.eu/pdf/stock/xil/xc8100fpga_family.pdf
+
+  CICS paper on XC8100 (1996)
+  http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=00510554
+
+  Xcell introduction (page 20)
+  http://www.xilinx.com/publications/archives/xcell/Xcell18.pdf
+
+1995: XC6200 (reconfigurable)
+
+  Data sheet:  Could not find one. 
+
+  Xcell introduction (page 22)
+  http://www.xilinx.com/publications/archives/xcell/Xcell18.pdf
+
+  Paper by Xilinx authors:
+
+  "The XC6200 FastMap Processor Interface"
+  Stephen Churcher, Tom Kean, and Bill Wilkie (Xilinx Inc)
+  http://www-bd.fnal.gov/icalepcs/abstracts/PDF/m4ad.pdf
+
+  Many papers exist by academic users, example paper:
+
+  "Run-time parameterised circuits for the Xilinx XC6200"
+  Rob Payne
+  http://www.springerlink.com/content/f82711v75718544r/
+
+1998: Virtex
+
+  Xilinx Data Sheet page:
+  http://www.xilinx.com/support/documentation/virtex.htm
+
+  Xcell preview (pages 4-5)
+  http://www.xilinx.com/publications/archives/xcell/Xcell27.pdf
+
+  Xcell product release (page 4)
+  http://www.xilinx.com/publications/archives/xcell/Xcell31.pdf
+
+1998: Spartan
+
+  Xilinx Data Sheet page:
+  http://www.xilinx.com/support/documentation/spartan-xl.htm
+
+  Xcell preview (page 6)
+  http://www.xilinx.com/publications/archives/xcell/Xcell27.pdf
+
+  Spartan power consumption analysis (page 6)
+  http://www.xilinx.com/publications/archives/xcell/Xcell28.pdf
+
+1999: Virtex-E
+
+  Xilinx Data Sheet page:
+  http://www.xilinx.com/support/documentation/virtex-e.htm
+
+  Xcell feature (page 5)
+  http://www.xilinx.com/publications/archives/xcell/Xcell34.pdf
+
+2000: Spartan-II
+
+  Xilinx Data Sheet Page:
+  http://www.xilinx.com/support/documentation/spartan-ii.htm
+
+2000: Virtex-EM (1 Mb memory on-chip)
+
+  Xilinx Data Sheet Page:
+  http://www.xilinx.com/support/documentation/virtex-e_em.htm
+
+2001: Virtex-II
+
+  Xilinx Data Sheet Page:
+  http://www.xilinx.com/support/documentation/virtex-ii.htm
+
+  Xcell feature (page 4)
+  http://www.xilinx.com/publications/archives/xcell/Xcell40.pdf
+
+  FPGA Conference Paper by Xilinx Authors
+  Dynamic power consumption in Virtex-II FPGA family
+  http://portal.acm.org/citation.cfm?id=503072
+
+  DATEC Paper by Xilinx Authors (follow-ons also exist)
+  A lightweight approach for embedded reconfiguration of FPGAs
+  http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1253642
+
+2002: Virtex-II Pro (PowerPC hard core)
+
+  Xilinx Data Sheet Page:
+  http://www.xilinx.com/support/documentation/virtex-ii_pro.htm
+
+  Xcell special issue (page 6, page 10)
+  http://www.xilinx.com/publications/archives/xcell/Xcell42.pdf
+
+2003: Spartan-3
+
+  Xilinx Data Sheet Page:
+  http://www.xilinx.com/support/documentation/spartan-3.htm
+
+  Xcell special issue (page 7)
+  http://www.xilinx.com/publications/archives/xcell/Xcell46.pdf
+
+  FPGA conference paper by Trimberger
+  http://portal.acm.org/citation.cfm?doid=1117201.1117203
+
+2003: Virtex-II Pro X (Rocket PHY)
+
+  Xilinx Data Sheet Page:
+  http://www.xilinx.com/support/documentation/virtex-ii_pro.htm
+
+  Xcell cover story (page 9)
+  http://www.xilinx.com/publications/archives/xcell/Xcell45.pdf
+
+2005: Virtex-IV
+
+  Xilinx Data Sheet Page:
+  http://www.xilinx.com/support/documentation/virtex-4.htm
+
+  Hot-Chips Slides
+  http://www.hotchips.org/archives/hc17/3_Tue/HC17.S7/HC17.S7T2.pdf
+
+  Xcell introduction (page 33)
+  http://www.xilinx.com/publications/archives/xcell/Xcell51.pdf
+
+  Xcell special issue:
+  http://www.xilinx.com/publications/archives/xcell/Xcell52.pdf
+
+2005: Spartan-3E
+
+  Xilinx Data Sheet Page:
+  http://www.xilinx.com/support/documentation/spartan-3e.htm
+
+  Xcell introduction (page 13)
+  http://www.xilinx.com/publications/archives/xcell/Xcell53.pdf
+
+2006: Virtex-5
+
+  Xilinx Data Sheet Page:
+  http://www.xilinx.com/support/documentation/virtex-5.htm
+
+  Hot-Chips Slides:
+  http://www.hotchips.org/archives/hc18/2_Mon/HC18.S4/HC18.S4T1.pdf
+
+  CICC paper, Xilinx authors
+  CAD Techniques for Power Optimization in Virtex-5 FPGAs
+  http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4405687
+
+  Xcell special issue:
+  http://www.xilinx.com/publications/archives/xcell/Xcell59.pdf
+
+2007: Spartan-3A(N)
+
+  Xilinx Data Sheet Page:
+  http://www.xilinx.com/support/documentation/spartan-3a.htm
+  http://www.xilinx.com/support/documentation/spartan-3an.htm
+
+2008: Virtex-5 FXT
+
+  Xilinx Data Sheet Page:
+  http://www.xilinx.com/support/documentation/virtex-5.htm
+
+  Hot-Chips Slides:
+  http://www.hotchips.org/archives/hc20/3_Tues/HC20.26.511.pdf
+
+  Xcell cover story:
+  http://www.xilinx.com/publications/archives/xcell/Xcell64.pdf
+
+2009: Virtex-6, Spartan-6
+
+  Xilinx Data Sheet Page:
+  http://www.xilinx.com/support/documentation/virtex-6.htm
+
+  Hot-Chips Slides:
+  http://www.hotchips.org/archives/hc21/3_tues/HC21.25.700.FPGAs-Epub/HC21.25.7300.Alfke-Xilinx-Virtex6-Spartan6.pdf
+
+  Xcell feature story (page 8)
+  http://www.xilinx.com/publications/archives/xcell/Xcell68.pdf
+
+2010: Xilinx 7: Virtex, Artix, Kintex 
+
+  Xilinx White-Paper Page:
+  http://www.xilinx.com/technology/roadmap/7-series-fpgas.htm
+
+  Xcell Xilinx-7 preview (page 6)
+  http://www.xilinx.com/publications/archives/xcell/Xcell72.pdf
+
+  Xcell ARM architure preview (page 6)
+  http://www.xilinx.com/publications/archives/xcell/Xcell71.pdf
